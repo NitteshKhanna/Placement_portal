@@ -1,0 +1,4 @@
+Backend: 
+
+    Flask backend which has been deployed in AWS with the endpoints data (POST & GET) and dataj.
+    The address is https://52.77.241.161/.
